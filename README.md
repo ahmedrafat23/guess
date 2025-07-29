@@ -19,5 +19,5 @@ After each guess, you'll be told whether the number is:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/guess-the-number.git
-   cd guess-the-number
+   git clone https://github.com/ahmedrafat23/guess.git
+   cd guess
