@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="ChatGPT Image Jul 29, 2025, 06_10_16 PM" src="https://github.com/user-attachments/assets/f136db08-6017-462c-becb-b3cf390a26be" />
+
 # 🎯 Guess The Number
 
 A simple number guessing game written in Python.
